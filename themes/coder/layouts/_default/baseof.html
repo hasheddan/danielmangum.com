@@ -9,6 +9,11 @@
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@hasheddan" />
+    <meta name="twitter:title" content="{{ .Title }}"/>
+    <meta name="twitter:image" content="https://danielmangum.com/images/favicon-32x32.png" />
+
     <base href="{{ .Site.BaseURL }}">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
