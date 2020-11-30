@@ -3,6 +3,13 @@
     <header>
       <h1 class="title">{{ .Title }}</h1>
       <h2 class="date">{{ .Date.Format "January 2, 2006" }}</h2>
+      <style>
+        .twitter-tweet-rendered {
+          display:block;
+          margin-left:auto;
+          margin-right:auto;
+        }
+      </style>
 
       {{ if eq .Params.math "true" }}
         <script type="text/javascript" async
