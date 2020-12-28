@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Daniel Mangum"
-    info = "I like writing code that writes code."
+    info = "Big fan of computers and human beings."
     description = "Daniel Mangum's personal website"
     keywords = "blog,developer,personal"
 
