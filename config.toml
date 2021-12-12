@@ -42,10 +42,18 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "[RISC-V Tips]"
     weight = 1
+    url  = "/risc-v-tips/"
+[[menu.main]]
+    name = "[RISC-V Bytes]"
+    weight = 1
+    url  = "/categories/risc-v-bytes/"
+[[menu.main]]
+    name = "[Blog]"
+    weight = 2
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
-    weight = 2
+    name = "[About]"
+    weight = 3
     url = "/about/"
