@@ -19,6 +19,8 @@ pygmentscodefencesguesssyntax = true
 
     disqusShortname = "yourdiscussshortname"
 
+    colorScheme = "auto"
+ 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
     hideCopyright = false
