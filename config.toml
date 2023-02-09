@@ -28,6 +28,9 @@ pygmentscodefencesguesssyntax = true
     # Custom CSS
 	custom_css = ["css/custom.css"]
 
+    # Site Images
+    images = ["images/twitter-card.png"]
+
 # Social links
 [[params.social]]
     name = "Github"
