@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Daniel Mangum"
-    info = "Big fan of computers and human beings."
+    info = "big fan of computers and human beings."
     description = "Daniel Mangum's personal website"
     keywords = "blog,developer,personal"
 
@@ -44,6 +44,10 @@ pygmentscodefencesguesssyntax = true
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/daniel-mangum-a530b8bb/"
+[[params.social]]
+    name = "RSS"
+    weight = 4
+    url = "https://danielmangum.com/index.xml"
 
 # Menu links
 [[menu.main]]
