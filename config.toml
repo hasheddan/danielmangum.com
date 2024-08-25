@@ -43,7 +43,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/daniel-mangum-a530b8bb/"
+    url = "https://www.linkedin.com/in/danielmangum/"
 [[params.social]]
     name = "RSS"
     weight = 4
